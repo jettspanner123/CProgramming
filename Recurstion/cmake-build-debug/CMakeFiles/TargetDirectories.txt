@@ -1,0 +1,3 @@
+/Users/uddeshyasingh/CProgramming/Recurstion/cmake-build-debug/CMakeFiles/Recurstion.dir
+/Users/uddeshyasingh/CProgramming/Recurstion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/uddeshyasingh/CProgramming/Recurstion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
